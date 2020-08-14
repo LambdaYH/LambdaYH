@@ -18,6 +18,5 @@ Here are some ideas to get you started:
   
 |                     **Contact with me**                      |                 
 | :----------------------------------------------------------: | 
-|           [Email](mailto:chenyihang1998@gmail.com)           |   
-|                                                              |
+|           [Email](mailto:chenyihang1998@gmail.com)           | 
 |             [Telegram](https://t.me/LambdaYH)                | 
